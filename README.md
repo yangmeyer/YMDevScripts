@@ -1,5 +1,6 @@
 YMDevScripts
 ========
+A collection of scripts that I made for myself. (Currently just one :-))
 
 Navigate-iOS-Simulator-Location.scpt
 -------
